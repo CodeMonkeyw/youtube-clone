@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+}
+#comments{
+    height: 30px;
+}
+#b{
+    margin-left: 00px;
+}
+.video{
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+#in{
+    position: relative;
+    
+    padding: 10px;
+    width: 600px;
+     left: 100px;
+     top: -40px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 0px;
+    border: gray solid 0.2px;
+}
+
+
+#sub{
+ position: relative;
+ bottom:42px ;
+ left: 100px;
+ height:35px ;
+}

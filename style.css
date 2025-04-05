@@ -1,11 +1,46 @@
 body{
     font-family: sans-serif;
 }
-#comments{
+.whaa{
+    position: relative;
+    left: 70px;
+    bottom: 75px;
+}
+.com{
+    position: relative;
+    bottom: 600px;
+    left:650px ;
+    
+}
+.commentSect{
+    position: relative;
+    bottom: 630px;
+    left: 650px;
+    padding: 5px;
+    width: 400px;
+    height: 30px;
+    margin: 12px;
+    border: 1px solid gray; opacity: 69%;
+}
+#subscribe{
+    height: 40px;
+    border-radius: 15px;
+    position: relative;
+    left: -290px;
+    width: 150px;
+    bottom: -470px;
+    border: none;
+}
+
+#submie{
     height: 30px;
 }
+#comment{
+    height: 30px;
+    width: 400px;
+}
 #b{
-    margin-left: 00px;
+    border-radius: 100%;
 }
 .video{
     position: relative;

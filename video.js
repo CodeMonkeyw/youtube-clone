@@ -1,5 +1,6 @@
 const subscribe = document.getElementById('subscribe')
 const comment = []
+let counter = document.getElementById('commentsTitle')
 const username = '@oranMazimpaka'
 const commentButton = document.getElementById('submie')
 const paste = document.getElementById('commentSection')
@@ -10,6 +11,7 @@ function comeent(){
  let space = document.querySelector('hr')
  let input = document.getElementById('comment')
  let comments = document.createElement('div')
+ let username = `<`
  document.body.appendChild(comments)
  
  comments.classList.add("commentSect")

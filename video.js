@@ -6,9 +6,9 @@ const commentButton = document.getElementById('submie')
 const paste = document.getElementById('commentSection')
 let commit = undefined
 const commentValue = document.getElementById('addToList')
-commentButton.addEventListener('click', comeent)
+
 function comeent(){
- let space = document.querySelector('hr')
+
  let input = document.getElementById('comment')
  let comments = document.createElement('div')
  let username = `<`
